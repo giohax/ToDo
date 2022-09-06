@@ -8,6 +8,7 @@ Functionalities include:
 - Deleting a task
 - Checking off a task
 - Saving data into Local Storage
+- Mobile Responsive
 
 
 
