@@ -11,4 +11,4 @@ Functionalities include:
 
 
 
-<img width="728" alt="Screen Shot 2022-09-06 at 5 57 29 AM" src="https://user-images.githubusercontent.com/34455287/188625272-5242cc95-4478-4325-8305-2ba8f14ab105.png">
+<img width="805" alt="Screen Shot 2022-09-06 at 8 36 27 AM" src="https://user-images.githubusercontent.com/34455287/188649354-2d11dcea-153c-445d-b76b-72021fe533a2.png">
