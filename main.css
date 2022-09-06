@@ -26,11 +26,30 @@ body {
     user-select: none;
 }
 
+button {
+    cursor: pointer;
+    background-color: var(--clr-secondary);
+    border: 0;
+    padding: .5rem 1rem;
+    font-size: 0.8rem;
+    border-radius: 5px;
+    color: var(--clr-theme);
+}
+
+button:active {
+    color: white;
+    opacity: .9;
+}
+
 .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
     color: var(--clr-theme);
     font-size: 0.8rem;
     margin-bottom: 1.7em;
 }
+
 
 .app {
     height: 100%;
