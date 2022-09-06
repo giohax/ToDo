@@ -92,7 +92,7 @@ button:active {
 .task label {
     display: inline-flex;
     position: relative;
-    margin-bottom: -.3em;
+  /*   margin-bottom: -.3em; */
     cursor: pointer;
     
 }
